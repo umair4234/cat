@@ -1,0 +1,5 @@
+{
+  "name": "Video Topic Generator",
+  "description": "An application that uses Gemini to generate video topic ideas, develop detailed visual scripts, and create JSON prompts, with a full library to save and manage your creative projects.",
+  "requestFramePermissions": []
+}
